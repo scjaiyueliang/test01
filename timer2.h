@@ -9,7 +9,7 @@
 #define ITC_TIMER_H
 
 #include <chrono>
-typedef int 					SANY_3322;
+typedef int 					scj_3322;
 namespace itc {
 
 namespace utils {
